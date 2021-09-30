@@ -1,1 +1,1 @@
-# Applications-
+# Streamlit stock prediction App-
